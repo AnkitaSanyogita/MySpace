@@ -1,0 +1,1 @@
+{"id":"046e3ddf-d39d-4539-8829-0841d6e7deae","name":"EnterEmployee-taskform.frm","model":{"taskName":"EnterEmployee","processId":"EmployeeDpt.EmployeeDepartment","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
